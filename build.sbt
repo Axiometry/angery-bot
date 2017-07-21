@@ -1,4 +1,4 @@
-name := "cluckbot"
+name := "angery-bot"
 
 scalaVersion := "2.11.8"
 
